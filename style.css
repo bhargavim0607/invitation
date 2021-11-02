@@ -36,10 +36,11 @@ body{
     padding-left: 2%;
     padding-bottom: 2%;
     padding-right: 2%;
-    font-size: 2vw;
+    font-size: 30px;
     align-items: center;
 }
 .add{
     text-align: center;
     padding:1%;
+    font-size: 30px;
 }
