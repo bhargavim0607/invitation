@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(31, 10, 31);
+}
+.container-fluid{
+    height: 100%;
+    padding-top: 2%;
+    color: gold;
+}
+.tit{
+    align-items: center;
+    text-align: center;
+    color: gold;
+    font-weight: bold;
+}
+.host{
+    text-align: start;
+}
+.date,.ti{
+    text-align: end;
+}
+.ph{
+    text-align: start;
+}
+.title{
+    color: hotpink;
+    font-size: 3vw;
+    font-weight: 800;
+    text-align: center;
+}
+.text{
+    text-align: start;
+    border-radius: 15%;
+    border: dotted hotpink;
+    width:90%;
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-bottom: 2%;
+    padding-right: 2%;
+    font-size: 1.5vw;
+    align-items: center;
+}
